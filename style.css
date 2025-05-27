@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 50px;
+  color: #444444;
+}
+
+h1 {
+  width: 480px;
+  margin: 0 auto 8px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #FFFFFF ;
+  background:  #C0C0C0;
+}
+p {
+  color:  #C0C0C0;
+  background:  #FFFFFF
+}
+
+h2 {
+  border-bottom: 2px solid #A9A9A9   ;
+  padding-bottom: 12px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #847462 no-repeat center url("img/i\ \(1\).webp");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.site-header p {
+  width: 255px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
+.feature-furniture {
+  color: #808080;
+  line-height: 20px;
+  padding-top: 180px;
+  background-image: url("img/atoms_8430620.png"); 
+  background-size: 70%;
+}
+
+.feature-lighting {
+  color: #808080;
+  line-height: 20px;
+  padding-top: 180px;
+  background-image: url("img/science_15205288.png");
+  background-size: 70%;
+}
+
+.feature-accessories {
+  color: #808080;
+  line-height: 20px;
+  padding-top: 180px;
+  background-image: url("img/science_15205227.png");
+  background-size: 70%;
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid #D3D3D3;
+  color:#000000 ;
+}
+
+.standard {
+  border-color: #D3D3D3;
+  color: #000000;
+}
+
+.vip {
+  border-color:#D3D3D3;
+  color: #000000;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #A9A9A9 ;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+  color: #A9A9A9 ;
+}
+
+
